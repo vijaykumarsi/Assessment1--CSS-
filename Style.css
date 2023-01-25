@@ -1,0 +1,41 @@
+
+
+.Box1{
+    color: red;
+    
+    
+}
+
+p{
+    color: brown;
+}
+
+
+#line-th{
+    text-decoration: line-through;
+}
+
+
+ ol li{
+    line-height: 40px;
+    color: brown;
+}
+
+
+
+ul li{
+    color: brown;
+    letter-spacing: 4px;
+    
+
+}
+.col-li{
+    background-color: yellow;
+}
+
+#Link1{
+    color: red;
+    background-color: yellow;
+    text-decoration: none;
+}
+
